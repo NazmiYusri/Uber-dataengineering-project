@@ -31,6 +31,9 @@ More info about dataset can be found here:
 
 ## The Output Result
 The analytics part of uber data that have gone through pipeline(mage) is done on looker platform
+
 <img src="lookerdashboard-1.png">
+
+<img src="lookerdashboard-2.png">
 
 
