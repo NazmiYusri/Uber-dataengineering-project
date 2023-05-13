@@ -29,4 +29,8 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpg">
 
+## The Output Result
+The analytics part of uber data that have gone through pipeline(mage) is done on looker platform
+<img src="lookerdashboard-1.png">
+
 
